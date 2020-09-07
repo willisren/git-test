@@ -1,4 +1,1 @@
-
-def hello
-	puts "Hello World!"
-end
+puts "Hello World!"
