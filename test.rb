@@ -1,3 +1,5 @@
-def hello
-	puts "Hello World!"
+module Testable
+    def self.hello
+        puts "Hello World!"
+    end
 end
